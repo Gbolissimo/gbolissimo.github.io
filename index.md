@@ -2,7 +2,7 @@
 
 ---
 ### About
- Adegbola Gbolahan is a Software Developer who has about five (5) years of experience in Android App Development.
+ Adegbola Gbolahan is a Software Developer with five (5) years of experience in Android App Development.
   He is a graduate of the University of Ibadan, Ibadan and Nigerian Law School, Abuja.
   Having a law background, Adegbola has developed several mobile applications to aid legal education in Nigeria.
   Among them are - High Court of Lagos (Civil Procedure) Rules 2019 App and the Rules of Professional Conduct for Legal Practitioners in Nigeria 2007 App.
@@ -40,24 +40,5 @@
 
 
 <img src="images/cama.png?raw=true"/>
-<img src="images/lagos.png?raw=true"/>
-<img src="images/rpc.png?raw=true"/>
-<img src="images/sbf.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-
-
-
-
-
----
-
