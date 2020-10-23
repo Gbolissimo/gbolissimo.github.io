@@ -6,7 +6,7 @@
   He is a graduate of the University of Ibadan, Ibadan and Nigerian Law School, Abuja.
   Having a law background, Adegbola has developed several mobile applications to aid legal education in Nigeria.
   Among them are - High Court of Lagos (Civil Procedure) Rules 2019 App and the Rules of Professional Conduct for Legal Practitioners in Nigeria 2007 App.
-  He has also developed an Android App for the newly enacted Companies and Allied Matters Act (CAMA) 2020. All the above mentioned together with others have been published on Google Play Store.
+  He has also developed an Android App for the newly enacted Companies and Allied Matters Act (CAMA) 2020. All the above mentioned Apps together with others have been published on Google Play Store.
   <br><br>
   Also, Adegbola has a vast knowledge of website development. In the past few years, he has developed online platforms (websites) for educational groups and NGOS.
   Among them are - VantageNetworkAfrica, LegalPages, Pipe Group and LSS UI.
@@ -33,12 +33,5 @@
 - [Purity Ink](https://purityink.org/)
 
 
-
----
-
-### Sreenshots 
-
-
-<img src="images/cama.png?raw=true"/>
 
 ---
