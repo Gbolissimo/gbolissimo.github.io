@@ -14,14 +14,14 @@
 
 ### Android App Portfolio
 
-- [Companies and Allied Matters Act (CAMA) 2020 App](http://play.google.com/store/apps/details?id=com.gbolissimo.cama2020/)
-- [High Court of Lagos (Civil Procedure) Rules 2019 App](http://play.google.com/store/apps/details?id=com.gbolissimo.lagosrules2019/)
-- [Rules of Professional Conducts for Lawyers 2007 App](http://play.google.com/store/apps/details?id=com.gbolissimo.rpc2007/)
-- [LegaLIT App](http://play.google.com/store/apps/details?id=com.gbolissimo.legalit/)
-- [SimplyBarFinals App](http://play.google.com/store/apps/details?id=com.gbolissimo.sbf/)
-- [YALC UNIOSUN App](http://play.google.com/store/apps/details?id=com.gbolissimo.yalc7/)
-- [JUUC App](http://play.google.com/store/apps/details?id=com.gbolissimo.juuc/)
-- [UI-LAW18 Yearbook App](http://play.google.com/store/apps/details?id=com.gbolissimo.uillb18/)
+- [Companies and Allied Matters Act (CAMA) 2020 App](http://play.google.com/store/apps/details?id=com.gbolissimo.cama2020)
+- [High Court of Lagos (Civil Procedure) Rules 2019 App](http://play.google.com/store/apps/details?id=com.gbolissimo.lagosrules2019)
+- [Rules of Professional Conducts for Lawyers 2007 App](http://play.google.com/store/apps/details?id=com.gbolissimo.rpc2007)
+- [LegaLIT App](http://play.google.com/store/apps/details?id=com.gbolissimo.legalit)
+- [SimplyBarFinals App](http://play.google.com/store/apps/details?id=com.gbolissimo.sbf)
+- [YALC UNIOSUN App](http://play.google.com/store/apps/details?id=com.gbolissimo.yalc7)
+- [JUUC App](http://play.google.com/store/apps/details?id=com.gbolissimo.juuc)
+- [UI-LAW18 Yearbook App](http://play.google.com/store/apps/details?id=com.gbolissimo.uillb18)
 
 
 ---
