@@ -12,11 +12,37 @@
   Among them are - VantageNetworkAfrica, LegalPages, Pipe Group and LSS UI.
   He was a member of the Developer Student Club while in the University, and now a member of Google Developers Group Ibadan - a voluntary group for developers who use google technologies.
 
+### Android App Portfolio
 
-### Category Name 1 
+- [Companies and Allied Matters Act (CAMA) 2020 App](http://play.google.com/store/apps/details?id=com.gbolissimo.cama2020/)
+- [High Court of Lagos (Civil Procedure) Rules 2019 App](http://play.google.com/store/apps/details?id=com.gbolissimo.lagosrules2019/)
+- [Rules of Professional Conducts for Lawyers 2007 App](http://play.google.com/store/apps/details?id=com.gbolissimo.rpc2007/)
+- [LegaLIT App](http://play.google.com/store/apps/details?id=com.gbolissimo.legalit/)
+- [SimplyBarFinals App](http://play.google.com/store/apps/details?id=com.gbolissimo.sbf/)
+- [YALC UNIOSUN App](http://play.google.com/store/apps/details?id=com.gbolissimo.yalc7/)
+- [JUUC App](http://play.google.com/store/apps/details?id=com.gbolissimo.juuc/)
+- [UI-LAW18 Yearbook App](http://play.google.com/store/apps/details?id=com.gbolissimo.uillb18/)
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+### Website Dev Portfolio
+
+- [Vantage Network Africa](https://vantagenetworkafrica.org/)
+- [Legal Pages](https://legalpages.com.ng/)
+- [Pipe Group](https://pipegroup.com.ng/)
+- [Purity Ink](https://purityink.org/)
+
+
+
+---
+
+### Sreenshots 
+
+
+<img src="images/cama.png?raw=true"/>
+<img src="images/lagos.png?raw=true"/>
+<img src="images/rpc.png?raw=true"/>
+<img src="images/sbf.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
@@ -28,19 +54,10 @@
 
 ---
 
-### Category Name 2
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
 
 
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+
