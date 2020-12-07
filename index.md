@@ -2,7 +2,7 @@
 
 ---
 ### About
- Adegbola Gbolahan is a Senior Software Developer at Gbolissimo Technologies. He has five (5) years of experience in Android App Development.
+ Adegbola Gbolahan is a Senior Software Developer at Gbolissimo Technologies Ltd. He has five (5) years of experience in Android App Development.
   He is a graduate of the University of Ibadan, Ibadan and Nigerian Law School, Abuja.
   Having a law background, Adegbola has developed several mobile applications to aid legal education in Nigeria.
   Among them are - High Court of Lagos (Civil Procedure) Rules 2019 App and the Rules of Professional Conduct for Legal Practitioners in Nigeria 2007 App.
@@ -29,8 +29,9 @@
 
 - [Vantage Network Africa](https://vantagenetworkafrica.org/)
 - [Legal Pages](https://legalpages.com.ng/)
-- [Pipe Group](https://pipegroup.com.ng/)
+- [Pipe Group](https://pipegroup.org.ng/)
 - [Purity Ink](https://purityink.org/)
+- [Oloba Ile](https://oloba-ile.com/)
 
 
 
